@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        border: 5px solid black;
+        margin: 5px 5px 5px 5px;
+    }
+    #heading{
+        text-align: center;
+        font-size: 5vw;
+        text-decoration: underline;
+    }
+    #number{
+        margin-left: 35vw;
+        border-radius: 15px 50px;
+        text-align: center;
+        font-size: 15vw;
+        width: 30vw;
+        border: 2px solid grey;
+        margin-bottom: 0%;
+        margin-top: 0%;
+        margin-bottom: 2vw ;
+    }
+    #add{
+        border-radius: 25px;
+        font-size: 8vw;
+        margin-top: 2%;
+        margin-left: 40%;
+        height: 10vw;
+        width: 10vw;
+    }
+    #subtract{
+        border-radius: 25px;
+        font-size: 8vw;
+        margin-top: 2%;
+        margin-left: 3%;
+        height: 10vw;
+        width: 10vw;
+    }
+</style>
+<body>
+    <h1 id="heading">Counter</h1>
+    <h1 id="number" style="background-color: black;color:blue;">0</h1>
+    <button id="add">+</button>
+    <button id="subtract">-</button>
+</body>
+<script>
+    let add = document.getElementById("add");
+    let subtract = document.getElementById("subtract");
+    let num = 0;
+    
+    add.addEventListener('click',function(e){
+        num++;
+        document.getElementById("number").innerHTML = num;
+    });
+
+    subtract.addEventListener('click',function(e){
+        if(num == 0){
+            num = 0;
+        }else{
+            num--;
+        }
+        document.getElementById("number").innerHTML = num;
+    });
+</script>
+</html>

@@ -1,0 +1,48 @@
+[33mcommit b74f6eb8df106787d577428e67b3b0b8cf79c12c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 83846ab b062466
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Thu Jan 21 07:59:53 2021 +0530
+
+    Adding style
+
+[33mcommit 83846ab8e4ccdabdd4dbbd13cbb026a25be91188[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Thu Jan 21 07:58:20 2021 +0530
+
+    Adding style
+
+[33mcommit b062466fbe622a5719ee862c0b882819f17f8a23[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Thu Jan 21 07:56:03 2021 +0530
+
+    Add inline style
+
+[33mcommit d64f49d297bd231773a626fa40e27ddf60ee6699[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Thu Jan 21 07:38:57 2021 +0530
+
+    remove bootstrap link
+
+[33mcommit d2e285e65e1719828f6dbfafc14cdcbe2938b059[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Thu Jan 21 00:01:30 2021 +0530
+
+    First commit through Terminal - link bootstrap
+
+[33mcommit 3c09a8c8f054406c952e456bd661af660c7b2176[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Tue Dec 8 19:20:42 2020 +0530
+
+    Add one and only file
+
+[33mcommit b6872a32155eb6cf7643643aa1a04cd63c91bd1d[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Tue Dec 8 19:19:55 2020 +0530
+
+    Update README.md
+
+[33mcommit 076ab11bc4c9d8b48c51a942ad100a2ef69ccd4a[m
+Author: Gaurav Mazumder <gaurav.mazumder1997@gmail.com>
+Date:   Tue Dec 8 19:17:06 2020 +0530
+
+    Initial commit
